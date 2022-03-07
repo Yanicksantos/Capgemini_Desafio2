@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "574a1c45-f74b-45db-91b7-fd122a345fc6": {
+      "ProjectGuid": "574a1c45-f74b-45db-91b7-fd122a345fc6",
+      "DisplayName": "Desafio1",
+      "ColorIndex": 0
+    },
+    "6bcba336-2604-4bfd-ba8f-10a371df0d64": {
+      "ProjectGuid": "6bcba336-2604-4bfd-ba8f-10a371df0d64",
+      "DisplayName": "TestProject1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

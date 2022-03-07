@@ -1,0 +1,15 @@
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\bin\Debug\net6.0\Capgemini_02_Desafio2.exe
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\bin\Debug\net6.0\Capgemini_02_Desafio2.deps.json
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\bin\Debug\net6.0\Capgemini_02_Desafio2.runtimeconfig.json
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\bin\Debug\net6.0\Capgemini_02_Desafio2.dll
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\bin\Debug\net6.0\ref\Capgemini_02_Desafio2.dll
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\bin\Debug\net6.0\Capgemini_02_Desafio2.pdb
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\obj\Debug\net6.0\Capgemini_02_Desafio2.csproj.AssemblyReference.cache
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\obj\Debug\net6.0\Capgemini_02_Desafio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\obj\Debug\net6.0\Capgemini_02_Desafio2.AssemblyInfoInputs.cache
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\obj\Debug\net6.0\Capgemini_02_Desafio2.AssemblyInfo.cs
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\obj\Debug\net6.0\Capgemini_02_Desafio2.csproj.CoreCompileInputs.cache
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\obj\Debug\net6.0\Capgemini_02_Desafio2.dll
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\obj\Debug\net6.0\ref\Capgemini_02_Desafio2.dll
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\obj\Debug\net6.0\Capgemini_02_Desafio2.pdb
+C:\Users\YANICK\Desktop\Capgemini2\Capgemini_02_Desafio2\Capgemini_02_Desafio2\obj\Debug\net6.0\Capgemini_02_Desafio2.genruntimeconfig.cache

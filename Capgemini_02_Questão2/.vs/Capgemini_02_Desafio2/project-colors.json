@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0a67ca82-7c6a-4189-9440-29346d8c1ad6": {
+      "ProjectGuid": "0a67ca82-7c6a-4189-9440-29346d8c1ad6",
+      "DisplayName": "Capgemini_02_Desafio2",
+      "ColorIndex": 0
+    },
+    "9da4ddf7-1397-4c89-a20d-44f5afb1d66b": {
+      "ProjectGuid": "9da4ddf7-1397-4c89-a20d-44f5afb1d66b",
+      "DisplayName": "Desafio2Teste",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
